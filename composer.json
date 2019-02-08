@@ -1,0 +1,16 @@
+{
+    "name": "reprovinci/kirby-modeler",
+    "description": "Load the default model for pages without model",
+    "version": "1.0.0",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "require": {
+        "getkirby/cms": "^3.0.0"
+    },
+    "authors": [
+        {
+            "name": "Matthijs Brouwer",
+            "email": "matthijs@reprovinci.nl"
+        }
+    ]
+}
