@@ -11,7 +11,7 @@
     },
     "require": {
         "getkirby/cms": "^3.0.0",
-        "getkirby/composer-installer": "*",
+        "getkirby/composer-installer": "*"
     },
     "authors": [
         {
