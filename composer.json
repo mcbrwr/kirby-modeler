@@ -3,11 +3,6 @@
     "description": "Load the default model for pages without model",
     "type": "kirby-plugin",
     "license": "MIT",
-    "autoload": {
-        "files": [
-            "index.php"
-        ]
-    },
     "require": {
         "getkirby/cms": "^3.0.0",
         "getkirby/composer-installer": "*"
