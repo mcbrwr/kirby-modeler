@@ -1,5 +1,5 @@
 {
-    "name": "mcbrwr/kirby-modeler",
+    "name": "reprovinci/kirby-modeler",
     "description": "Load the default model for pages without model",
     "type": "kirby-plugin",
     "license": "MIT",
